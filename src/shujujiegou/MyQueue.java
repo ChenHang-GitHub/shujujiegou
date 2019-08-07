@@ -1,13 +1,17 @@
 package shujujiegou;
 /**
- * 普通队列
+ * 普通队列(数组实现)
+ * * 先进先出
  */
 
 public class MyQueue {
     int  element[];
+
+
     public MyQueue()
     {
         element = new int[0];  //
+
     }
     //进队
     public  void  push(int el)
@@ -19,6 +23,7 @@ public class MyQueue {
         }
         newArr[element.length] = el;
         element = newArr;
+
     }
     //出队
     public  int  poll()
@@ -39,6 +44,7 @@ public class MyQueue {
     }
 
     public static void main(String[] args) {
+
         MyQueue m  = new MyQueue();
         m.push(1);
         m.push(2);
