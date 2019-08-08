@@ -1,6 +1,6 @@
 package shujujiegou;
 /**
- * 普通单链表
+ * 普通单链表 （ 不带头节点 ）
  */
 
 public class Node {

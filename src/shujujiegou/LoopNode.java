@@ -49,6 +49,7 @@ public class LoopNode {
         LoopNode n3 = new LoopNode(3);
         LoopNode n4 = new LoopNode(4);
        n1.insertNext(n2);
+
         System.out.println(n1.next.data);
 
 
