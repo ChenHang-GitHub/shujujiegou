@@ -1,7 +1,8 @@
 package shujujiegou;
 
 /*
-* 栈的数组实现*/
+* 栈的数组实现 自动增长maxsize
+* */
 public class MyStack {
     int  element[];
     public  MyStack()
