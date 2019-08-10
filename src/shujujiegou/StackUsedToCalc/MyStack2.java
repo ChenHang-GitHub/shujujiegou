@@ -1,4 +1,4 @@
-package shujujiegou;
+package shujujiegou.StackUsedToCalc;
 
 /*
 * 栈的数组实现 maxsize

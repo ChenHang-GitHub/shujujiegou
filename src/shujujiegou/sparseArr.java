@@ -1,8 +1,8 @@
 package shujujiegou;
 
 /*
-* 二维数组 和稀疏数组的相互转换
-* */
+ * 二维数组 和稀疏数组的相互转换
+ * */
 
 public class sparseArr {
 
@@ -45,32 +45,30 @@ public class sparseArr {
             }
         }
         System.out.println("输出sparse");
-        for (int line[]:sparseArr
-             ) {
-            for (int data:line
-                 ) {
-                System.out.print(data+" ");
+        for (int line[] : sparseArr
+                ) {
+            for (int data : line
+                    ) {
+                System.out.print(data + " ");
             }
 
             System.out.println();
         }
 
         // spaerseArr 转二维数组
-        int  ArrFromSparse [][]= new int [sparseArr[0][0]][sparseArr[0][1]];
-        for(int i=1;i<sparseArr.length;i++)
-        {
-          ArrFromSparse[sparseArr[i][0]][sparseArr[i][1]] = sparseArr[i][2];
+        int ArrFromSparse[][] = new int[sparseArr[0][0]][sparseArr[0][1]];
+        for (int i = 1; i < sparseArr.length; i++) {
+            ArrFromSparse[sparseArr[i][0]][sparseArr[i][1]] = sparseArr[i][2];
         }
         System.out.println("输出转好的二维数组");
-        for (int line[]:ArrFromSparse
-             ) {
-            for (int data:line
-                 ) {
-                System.out.print(data+" ");
+        for (int line[] : ArrFromSparse
+                ) {
+            for (int data : line
+                    ) {
+                System.out.print(data + " ");
             }
             System.out.println();
         }
-
 
 
     }
