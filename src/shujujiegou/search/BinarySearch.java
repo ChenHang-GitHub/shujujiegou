@@ -41,7 +41,7 @@ public class BinarySearch {
     }
 
 
-    //非递归
+    //递归
     public static int BinarySearch2(int arr[], int left, int right, int findVal) {
 
         // 当 left > right 时，说明递归整个数组，但是没有找到
@@ -56,7 +56,6 @@ public class BinarySearch {
         } else if (findVal < midVal) { // 向左递归
             return BinarySearch2(arr, left, mid - 1, findVal);
         } else {
-
             return mid;
         }
 

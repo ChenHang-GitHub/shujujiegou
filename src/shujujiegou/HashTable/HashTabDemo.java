@@ -94,11 +94,7 @@ class  EmpLinkedList {
             temp=temp.next;
         }
         System.out.println();
-
     }
-
-
-
 }
 
 

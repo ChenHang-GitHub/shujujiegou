@@ -34,8 +34,31 @@ public class SelectSort {
             }
 
         }
-
-
     }
+
+
+    //    private static void sort(int[] arr) {
+//
+//        int t = 0;
+//        boolean f =false;
+//        for(int i=0;i<arr.length-1;i++)
+//        {
+//            int index =i;
+//            for(int j =i;j<arr.length-1;j++)
+//            {
+//                if(arr[index]>arr[j+1])
+//                {
+//                    index=j+1;
+//                }
+//            }
+//            if(index!=i){
+//                t=arr[i];
+//                arr[i]=arr[index];
+//                arr[index]=t;
+//            }
+//        }
+//
+//    }
+
 
 }

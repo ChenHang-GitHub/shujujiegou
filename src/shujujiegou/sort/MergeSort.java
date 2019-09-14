@@ -30,9 +30,6 @@ public class MergeSort {
         }
     }
 
-
-
-
     public static  void merge (int arr [] ,int left,int mid,int right,int temp[])
     {
 
