@@ -3,33 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="0d8c64ac-8ca2-40da-921f-6c1cc788a257" name="Default" comment="shuju">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA数据结构/JAVA300/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA数据结构/JAVA300/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/HashTable/EmpLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/HashTable/EmpLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/HashTable/EmpNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/HashTable/EmpNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/Josepfu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/Josepfu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/ManNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/ManNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/search/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/search/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/singleCircleLink.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/singleCircleLink.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/sort/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/sort/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/sort/InsertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/sort/InsertSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/sort/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/sort/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/sort/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/sort/RadixSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/sort/RadixSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/sort/SelectSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/sort/SelectSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/tree/BinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/tree/BinaryTreeDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/tree/HeroNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAVA300/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA300/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shujujiegou/HashTable/HashTabDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shujujiegou/HashTable/HashTabDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shujujiegou/Josepfu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shujujiegou/Josepfu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shujujiegou/search/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shujujiegou/search/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shujujiegou/sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shujujiegou/sort/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shujujiegou/sort/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shujujiegou/sort/InsertSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shujujiegou/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shujujiegou/sort/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shujujiegou/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shujujiegou/sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shujujiegou/sort/RadixSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shujujiegou/sort/RadixSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shujujiegou/sort/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shujujiegou/sort/SelectSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shujujiegou/tree/BinaryTreeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shujujiegou/tree/BinaryTreeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/AVL/AVL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/AVL/AVL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/AVL/AVLDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/AVL/AVLDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/AVL/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JAVA数据结构/shujujiegou/AVL/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shujujiegou/AVL/AVLDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shujujiegou/AVL/AVLDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,15 +63,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JAVA300/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="maze.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/shujujiegou/digui/maze.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -117,16 +85,34 @@
         <entry file="file://$PROJECT_DIR$/src/shujujiegou/BST/BSTDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="280">
-              <caret line="14" column="26" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="14" selection-end-column="26" />
+              <caret line="14" column="26" selection-start-line="6" selection-start-column="4" selection-end-line="14" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AVLDemo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AVLDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/shujujiegou/AVL/AVLDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+            <state relative-caret-position="2465">
+              <caret line="321" column="1" lean-forward="true" selection-start-line="321" selection-start-column="1" selection-end-line="321" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Graph.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/shujujiegou/graph/Graph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#490#491#0" expanded="true" />
+                <element signature="e#528#529#0" expanded="true" />
+                <element signature="e#721#722#0" expanded="true" />
+                <element signature="e#757#758#0" expanded="true" />
+                <element signature="e#2690#2691#0" expanded="true" />
+                <element signature="e#2731#2732#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -191,6 +177,7 @@
         <option value="$PROJECT_DIR$/src/shujujiegou/BST/BSTDemo.java" />
         <option value="$PROJECT_DIR$/src/shujujiegou/AVL.java" />
         <option value="$PROJECT_DIR$/src/shujujiegou/AVL/AVLDemo.java" />
+        <option value="$PROJECT_DIR$/src/shujujiegou/graph/Graph.java" />
       </list>
     </option>
   </component>
@@ -216,9 +203,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -235,12 +221,6 @@
               <item name="JAVA数据结构" type="b2602c69:ProjectViewProjectNode" />
               <item name="JAVA数据结构" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JAVA300" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JAVA数据结构" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JAVA数据结构" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shujujiegou" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -248,35 +228,13 @@
               <item name="JAVA数据结构" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shujujiegou" type="462c0819:PsiDirectoryNode" />
-              <item name="AVL" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JAVA数据结构" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JAVA数据结构" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="shujujiegou" type="462c0819:PsiDirectoryNode" />
-              <item name="AVL" type="462c0819:PsiDirectoryNode" />
-              <item name="AVLDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="JAVA数据结构" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JAVA数据结构" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="shujujiegou" type="462c0819:PsiDirectoryNode" />
-              <item name="BST" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JAVA数据结构" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JAVA数据结构" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="shujujiegou" type="462c0819:PsiDirectoryNode" />
-              <item name="BST" type="462c0819:PsiDirectoryNode" />
-              <item name="BSTDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="graph" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -310,7 +268,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AVLDemo">
+  <component name="RunManager" selected="Application.Graph">
     <configuration name="AVLDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="shujujiegou.AVL.AVLDemo" />
       <module name="JAVA数据结构" />
@@ -331,12 +289,12 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shujujiegou.sort.InsertSort" />
+    <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shujujiegou.graph.Graph" />
       <module name="JAVA数据结构" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="shujujiegou.sort.*" />
+          <option name="PATTERN" value="shujujiegou.graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -362,19 +320,19 @@
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.InsertSort" />
       <item itemvalue="Application.QuickSort" />
       <item itemvalue="Application.RadixSort" />
       <item itemvalue="Application.BSTDemo" />
       <item itemvalue="Application.AVLDemo" />
+      <item itemvalue="Application.Graph" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Graph" />
         <item itemvalue="Application.AVLDemo" />
         <item itemvalue="Application.BSTDemo" />
         <item itemvalue="Application.RadixSort" />
         <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.InsertSort" />
       </list>
     </recent_temporary>
   </component>
@@ -425,7 +383,8 @@
       <workItem from="1568192487100" duration="10000" />
       <workItem from="1568370698615" duration="4292000" />
       <workItem from="1568380957669" duration="5683000" />
-      <workItem from="1568444847263" duration="1547000" />
+      <workItem from="1568444847263" duration="4458000" />
+      <workItem from="1568470950143" duration="4315000" />
     </task>
     <task id="LOCAL-00001" summary="shuju">
       <created>1564938375598</created>
@@ -459,7 +418,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="145260000" />
+    <option name="totallyTimeSpent" value="152486000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -467,26 +426,26 @@
     <layout>
       <window_info anchor="right" id="Palette" order="2" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.48590815" weight="0.32601535" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.48560768" weight="0.3259177" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5191898" side_tool="true" visible="true" weight="0.3359288" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5207889" side_tool="true" visible="true" weight="0.3359288" />
       <window_info anchor="right" id="Maven Projects" order="5" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48081023" visible="true" weight="0.3359288" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49198717" weight="0.33070865" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4792111" visible="true" weight="0.3359288" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49093816" weight="0.3303671" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24093817" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24360341" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4978678" weight="0.39933258" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49733475" weight="0.39933258" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -549,13 +508,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/io/FileInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="48" column="34" selection-start-line="48" selection-start-column="34" selection-end-line="48" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/StringBuffer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-291">
@@ -883,14 +835,30 @@
     <entry file="file://$PROJECT_DIR$/src/shujujiegou/BST/BSTDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
-          <caret line="14" column="26" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="14" selection-end-column="26" />
+          <caret line="14" column="26" selection-start-line="6" selection-start-column="4" selection-end-line="14" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/shujujiegou/AVL/AVLDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        <state relative-caret-position="2465">
+          <caret line="321" column="1" lean-forward="true" selection-start-line="321" selection-start-column="1" selection-end-line="321" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shujujiegou/graph/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#721#722#0" expanded="true" />
+            <element signature="e#757#758#0" expanded="true" />
+            <element signature="e#2690#2691#0" expanded="true" />
+            <element signature="e#2731#2732#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

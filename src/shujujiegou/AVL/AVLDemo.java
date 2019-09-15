@@ -5,7 +5,8 @@ public class AVLDemo {
 
     public static void main(String[] args) {
         AVL avl = new AVL();
-        int arr[] = {7,3,10,12,5,1,9,2};
+//        int arr[] = {7,3,10,12,5,1,9,2};
+        int[] arr = { 10, 11, 7, 6, 8, 9 };
         for(int i=0;i<arr.length;i++)
         {
             Node node = new Node(arr[i]);
@@ -155,6 +156,28 @@ class  Node {
     }
 
 
+
+
+    //左旋转
+    public  void  leftRotate(){
+        Node newNode = new Node(value);
+        newNode.left=left;
+        newNode.right=right.left;
+        value=right.value;
+        right=right.right;
+        left=newNode;
+    }
+    //右旋转
+    public  void  rightRotate(){
+        Node newNode = new Node(value);
+        newNode.right=right;
+        newNode.left=left.right;
+        value=left.value;
+        left=left.left;
+        right=newNode;
+    }
+
+
     //
     public  int getLeftHeight(){
         if(this.left==null)
@@ -209,6 +232,37 @@ class  Node {
                 this.right.add(node);
             }
         }
+
+        //当添加完一个结点后，如果: (右子树的高度-左子树的高度) > 1 , 左旋转
+        if(getRightHeight() - getLeftHeight() > 1) {
+            //如果它的右子树的左子树的高度大于它的右子树的右子树的高度
+            if(right != null && right.getLeftHeight() > right.getRightHeight()) {
+                //先对右子结点进行右旋转
+                right.rightRotate();
+                //然后在对当前结点进行左旋转
+                leftRotate(); //左旋转..
+            } else {
+                //直接进行左旋转即可
+                leftRotate();
+            }
+            return ; //必须要!!!
+        }
+
+        //当添加完一个结点后，如果 (左子树的高度 - 右子树的高度) > 1, 右旋转
+        if(getLeftHeight() - getRightHeight()>1) {
+            //如果它的左子树的右子树高度大于它的左子树的高度
+            if(left != null && left.getRightHeight() > left.getLeftHeight()) {
+                //先对当前结点的左结点(左子树)->左旋转
+                left.leftRotate();
+                //再对当前结点进行右旋转
+                rightRotate();
+            } else {
+                //直接进行右旋转即可
+                rightRotate();
+            }
+        }
+
+
     }
 
     //infix
