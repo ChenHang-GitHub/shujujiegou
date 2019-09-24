@@ -12,7 +12,6 @@ public class QuickSort {
         int[] arr = {8, 9, 1, 7, 2, 3, 5, 4, 6, 0};
         sort(arr,0,arr.length-1);
         System.out.println(Arrays.toString(arr));
-
     }
 // https://www.runoob.com/w3cnote/quick-sort.html
 //    private static void sort(int[] s,int left, int right) {

@@ -17,9 +17,7 @@ public class Test {
         strings.add(null);
         System.out.println(strings.isEmpty());
 
-
-
-
-
+        int   ce = 13%11;
+        System.out.println(ce+"ce");
     }
 }

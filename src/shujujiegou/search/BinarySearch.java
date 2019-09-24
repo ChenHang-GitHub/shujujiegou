@@ -12,7 +12,7 @@ public class BinarySearch {
         int output = BinarySearch1(index, arr);
         System.out.println(arr[output]);
     }
-
+// ((end-start)>>1)+start;
 
     //非递归
     public static int BinarySearch1(int target, int arr[]) {

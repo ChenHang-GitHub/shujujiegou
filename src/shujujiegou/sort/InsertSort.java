@@ -37,25 +37,39 @@ public class InsertSort {
 //        }
 //    }
 
-    private static void sort(int[] arr) {
-        int  index = 0;
-        int temp= 0;
-        for(int i=1 ;i<arr.length;i++)
-        {
-            index=i-1;
-            temp=arr[i];
-            while (index>=0&&arr[index]>temp)
-            {
-                arr[index+1]=arr[index];
-                index--;
-            }
+//    private static void sort(int[] arr) {
+//        int  index = 0;
+//        int temp= 0;
+//        for(int i=1 ;i<arr.length;i++)
+//        {
+//            index=i-1;
+//            temp=arr[i];
+//            while (index>=0&&arr[index]>temp)
+//            {
+//                arr[index+1]=arr[index];
+//                index--;
+//            }
+//                arr[index+1]=temp;
+//
+//        }
+//    }
+private static void sort(int[] arr) {
+ int len = arr.length;
+ for(int i =1;i<arr.length;i++)
+ {
+     int temp;
+     for(int j=i;j>0&&arr[j]<arr[j-1];j--)
+     {
+         temp =arr[j];
+         arr[j]=arr[j-1];
+         arr[j-1]=temp;
+     }
 
-                arr[index+1]=temp;
-
-        }
+ }
 
 
     }
+
 
 
 }

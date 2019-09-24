@@ -12,5 +12,32 @@ public class HungrySingleton {
     //绝对线程安全，在县城出现之前就已经实例化了，不存在访问安全问题
 
 
+   private HungrySingleton() {}
+   private static  HungrySingleton  instance = new HungrySingleton();
+   public  static  HungrySingleton getInstance()
+   {
+       return instance;
+   }
+
+}
+
+//
+class LazySingleton {
+    //使用时候生成。
+    private static LazySingleton instance = null;
+
+    private LazySingleton() {
+    }
+
+    public static  synchronized LazySingleton  getLayS(){
+//使用时生成实例，提高了效率！
+        if(instance==null)
+        {
+            instance=new LazySingleton();
+        }
+        return instance;
+    }
+
+
 
 }

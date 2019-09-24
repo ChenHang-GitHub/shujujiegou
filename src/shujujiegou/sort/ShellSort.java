@@ -24,7 +24,6 @@ public class ShellSort {
         for (int gap = arr.length/2; gap > 0; gap /= 2) {
 
             for (int i = gap; i < arr.length; i++) {
-
                 int temp = arr[i];
                 for (int j = i; j >= gap && arr[j] < arr[j - gap]; j = j - gap)
                 {
