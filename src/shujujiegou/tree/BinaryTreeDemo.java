@@ -1,4 +1,4 @@
-package com.atguigu.tree;
+package shujujiegou.tree;
 
 public class BinaryTreeDemo {
 

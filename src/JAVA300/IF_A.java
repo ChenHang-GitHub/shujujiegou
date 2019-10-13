@@ -2,7 +2,7 @@ package JAVA300;
 
 public interface IF_A {
 
-    int a = 0;
+    static   final int a =0;
 
-    public void get ();
+      void get ();
 }
