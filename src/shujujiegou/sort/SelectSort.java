@@ -40,7 +40,7 @@ public class SelectSort {
     //    private static void sort(int[] arr) {
 //
 //        int t = 0;
-//        boolean f =false;
+//        boolean FuntionalInterface =false;
 //        for(int i=0;i<arr.length-1;i++)
 //        {
 //            int index =i;

@@ -11,7 +11,7 @@ import java.io.*;
 public class FileTest {
 
     public static void main(String[] args) {
-        File file=new File("a.txt"); //根据路径创建File类对象--这里路径即使错误也不会报错，因为只是产生File对象，还并未与计算机文件读写有关联
+        File file=new File("FuntionalInterface.txt"); //根据路径创建File类对象--这里路径即使错误也不会报错，因为只是产生File对象，还并未与计算机文件读写有关联
         try
         {
             //FileInputStream的父类InputStream 是抽象类      *读取数据的三种方法：

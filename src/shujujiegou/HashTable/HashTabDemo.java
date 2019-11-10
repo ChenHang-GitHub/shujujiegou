@@ -7,7 +7,7 @@ public class HashTabDemo {
 
 
     public static void main(String[] args) {
-        EmpNode node1 = new EmpNode(1,"a");
+        EmpNode node1 = new EmpNode(1,"FuntionalInterface");
         HashTab hashTab = new HashTab(10);
         hashTab.add(node1);
         hashTab.list();

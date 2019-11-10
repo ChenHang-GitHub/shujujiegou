@@ -1,5 +1,9 @@
 package JAVA300;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 /*
 * 同一个类中的多个方法可以有相同的方法名称，但是有不同的参数列表，这就称为方法重载（method overloading）。
 *
@@ -9,10 +13,11 @@ package JAVA300;
 方法的返回类型可以相同也可以不相同。
 仅仅返回类型不同不足以称为方法的重载。
 * */
-public class Foo {
+public class Foo extends  Object {
     public  void method(String str ,int ages){}
     public  int method(String str ){return 1;}
     public  int method(int ages){return 1;}
 
-
+    public static void main(String[] args) {
+    }
 }

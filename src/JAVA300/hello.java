@@ -20,7 +20,7 @@ public class hello    {
     public String toString() {
         return "hello{" +
                 "age=" + age +
-                ", a=" + a +
+                ", FuntionalInterface=" + a +
                 '}';
     }
 

@@ -8,7 +8,7 @@ public class FindKthToTail {
 
     }
     /*
-  public class ListNode {
+  public class1 ListNode {
     int val;
     ListNode next = null;
 

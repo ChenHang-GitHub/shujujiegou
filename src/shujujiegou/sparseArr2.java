@@ -13,7 +13,7 @@ public class sparseArr2 {
 
     public static void main(String[] args)  throws  Exception{
 
-        File file  = new File("a.txt");
+        File file  = new File("FuntionalInterface.txt");
         FileReader fileReader = new FileReader(file);
         BufferedReader bufferedReader = new BufferedReader(fileReader);
         String Sline= null;

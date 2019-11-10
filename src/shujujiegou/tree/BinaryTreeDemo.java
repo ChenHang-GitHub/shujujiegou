@@ -6,7 +6,7 @@ public class BinaryTreeDemo {
         //先需要创建一颗二叉树
         BinaryTree binaryTree = new BinaryTree();
         //创建需要的结点
-        HeroNode root = new HeroNode(1, "a");
+        HeroNode root = new HeroNode(1, "FuntionalInterface");
         HeroNode node2 = new HeroNode(2, "b");
         HeroNode node3 = new HeroNode(3, "c");
         HeroNode node4 = new HeroNode(4, "d");
