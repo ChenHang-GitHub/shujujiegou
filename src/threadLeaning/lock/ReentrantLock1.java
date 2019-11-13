@@ -9,7 +9,7 @@ import java.util.concurrent.locks.ReentrantLock;
  * @date: 2019/11/8  20:40
  * @Description:     Lock lock = new ReentrantLock(); 使用时 必须要 手动 释放锁。
  *
- * 在遇到异常时不会像synchronizd自动释放锁 ，经常在finally 释放
+ *    在遇到异常时不会像synchronizd自动释放锁 ，经常在finally 释放
  */
 public class ReentrantLock1 {
 
@@ -26,6 +26,7 @@ public class ReentrantLock1 {
             lock.unlock();   //手动释放锁
         }
     }
+
     void  m2(){
         lock.lock();
         System.out.println("m2");

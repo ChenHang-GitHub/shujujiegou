@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
  * @ClassName: MyContainer1
  * @author: csh
  * @date: 2019/11/8  19:46
- * @Description:   最优解决方法
+ * @Description: 最优解决方法
  */
 public class MyContainer1 {
     private volatile List<Object> list = new ArrayList<>();

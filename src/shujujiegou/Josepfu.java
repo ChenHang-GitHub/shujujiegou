@@ -68,7 +68,7 @@ class singleCircleLink {
         while (cur.next != first) {
             cur = cur.next;
         }
-//        System.out.println(cur.no+" last.cur.no");
+//        System.out.println(cur.no+" poll.cur.no");
         // 找到开始ManNode
         for (int j = 0; j < startNo - 1; j++) {
             first = first.next;

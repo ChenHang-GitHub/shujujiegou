@@ -1,5 +1,7 @@
 package threadLeaning.syn;
 
+import java.lang.reflect.Field;
+
 /**
  * @ClassName: Test
  * @author: csh
@@ -17,25 +19,35 @@ public class Test {
             while (count>0)
             {
                 count--;
+                try {
+                    Thread.sleep(300);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
                 System.out.println(Thread.currentThread().getName()+" " +count);
             }
         }
     }
 
-    //     等同于上面的代码
+    //
 //    public synchronized  void  m(){
 //
 //    }
 
-    public static void main(String[] args) throws InterruptedException {
+    public static void main(String[] args) throws InterruptedException, NoSuchFieldException, IllegalAccessException {
 
         Test test = new Test();
         new Thread(()->test.m()).start();
 
 //        Thread.sleep(3000);
 //        test.count=10;
+        Class<Test> testClass = Test.class;
+        Field count = testClass.getDeclaredField("count");
+        count.setAccessible(true);
 
         new Thread(()->test.m()).start();
+        Thread.sleep(3000);
+        count.set(test,5);
         new Thread(()->test.m()).start();
     }
 

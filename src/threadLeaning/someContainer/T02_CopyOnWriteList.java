@@ -10,8 +10,7 @@ import java.util.concurrent.CopyOnWriteArrayList;
  * @ClassName: T02_CopyOnWriteList
  * @author: csh
  * @date: 2019/11/10  15:36
- * @Description:
- *
+ * @Description: 写时复制
  */
 public class T02_CopyOnWriteList {
 
@@ -21,7 +20,7 @@ public class T02_CopyOnWriteList {
         List<String> list =
                 //new ArrayList<>();
 //                new Vector<>();
-        new CopyOnWriteArrayList<>();  // 写速极慢，读取快
+                new CopyOnWriteArrayList<>();  // 写速极慢，读取快
 
         Random r = new Random();
         Thread[] ths = new Thread[100];
@@ -33,7 +32,6 @@ public class T02_CopyOnWriteList {
                 }
             };
             ths[i] = new Thread(task);
-
         }
         runAndComputeTime(ths);
         System.out.println(list.size());

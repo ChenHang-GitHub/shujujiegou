@@ -7,11 +7,9 @@ import java.util.concurrent.TransferQueue;
  * @ClassName: T08_TransferQueue
  * @author: csh
  * @date: 2019/11/10  19:30
- * @Description:
- *
- * 拥有transfer方法，传输，当transfer一个元素时，如果有take方法阻塞等待获取元素，则不向队列中保存，直接给等待的take方法
+ * @Description: 拥有transfer方法，传输，当transfer一个元素时，如果有take方法阻塞等待获取元素，则不向队列中保存，直接给等待的take方法
  * 如果没有消费者线程，transfer线程将会阻塞   (程序不向下执行)
- *  情景：如果将元素放入队列，再拿给消费者线程，太慢了，如果需要的效率更高，可以使用TransferQueue来解决更高的并发
+ * 情景：如果将元素放入队列，再拿给消费者线程，太慢了，如果需要的效率更高，可以使用TransferQueue来解决更高的并发
  */
 public class T08_TransferQueue {
 

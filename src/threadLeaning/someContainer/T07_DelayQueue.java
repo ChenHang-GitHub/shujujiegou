@@ -8,11 +8,11 @@ import java.util.concurrent.TimeUnit;
  * @ClassName: T07_DelayQueue
  * @author: csh
  * @date: 2019/11/10  18:55
- * @Description:   用途，定时执行任务
- *
- *  DelayQueue,
- *  * 出队有个时间限制, 每个元素有一个等待时间, 可以按照等待时间排序元素
- *  * DelayQueue元素必须为 Delayed类型的,即必须设置元素的等待时间
+ * @Description: 用途，定时执行任务
+ * <p>
+ * DelayQueue,
+ * * 出队有个时间限制, 每个元素有一个等待时间, 可以按照等待时间排序元素
+ * * DelayQueue元素必须为 Delayed类型的,即必须设置元素的等待时间
  */
 public class T07_DelayQueue {
 
@@ -43,11 +43,11 @@ public class T07_DelayQueue {
 
     public static void main(String[] args) throws InterruptedException {
         long timestamp = System.currentTimeMillis();
-        MyTask myTask1 = new MyTask(timestamp + 1000); // 1s后执行
-        MyTask myTask2 = new MyTask(timestamp + 2000);
-        MyTask myTask3 = new MyTask(timestamp + 1500);
-        MyTask myTask4 = new MyTask(timestamp + 2500);
-        MyTask myTask5 = new MyTask(timestamp + 500);
+        MyTask myTask1 = new MyTask( 1000); // 1s后执行
+        MyTask myTask2 = new MyTask(2000);
+        MyTask myTask3 = new MyTask( 1500);
+        MyTask myTask4 = new MyTask(2500);
+        MyTask myTask5 = new MyTask(500);
 
         DelayQueue<MyTask> tasks = new DelayQueue<>();
         tasks.put(myTask1);

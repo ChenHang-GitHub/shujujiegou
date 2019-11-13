@@ -11,19 +11,21 @@ import java.util.concurrent.ConcurrentLinkedQueue;
  * @Description:
  */
 public class T04_ConcurrentQueue {
+
     public static void main(String[] args) {
         Queue<String> queue = new ConcurrentLinkedQueue<>();
         for (int i = 0; i < 10; i++) {
-            queue.offer("a"+i);
+            queue.offer("a" + i);
         }
         System.out.println(queue);
-        System.out.println("Size"+queue.size());
+        System.out.println("Size" + queue.size());
 
         System.out.println(queue.poll()); // 取出队头
-        System.out.println(queue.size   ());
+        System.out.println(queue.size());
 
         System.out.println(queue.peek()); // 取出队头，但是不删除队头
         System.out.println(queue.size());
+
 
         //Deque
     }
