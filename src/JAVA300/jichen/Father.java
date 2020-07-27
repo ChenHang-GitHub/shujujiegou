@@ -3,12 +3,13 @@ package JAVA300.jichen;
 import javax.sound.midi.Soundbank;
 
 public class Father {
-    int  f = 1;
-    public  void   get(){
+    int f = 1;
+
+    public void get() {
         System.out.println("Father :get ");
     }
 
-    public  void  set(){
+    public void set() {
         System.out.println("Father :set ");
     }
 
@@ -16,12 +17,12 @@ public class Father {
 
 class Child extends Father {
 
-//    @Override
+    //    @Override
 //    public void get() {
 //        System.out.println("super get :");
 //        super.get();
 //    }
-    public  void  childget(){
+    public void childget() {
         System.out.println("child onlyl ");
     }
 }
@@ -35,5 +36,6 @@ class Test {
         //只能调用父类的方法
         fatherChild.get();
         fatherChild.set();
+        System.out.println(fatherChild.f);
     }
 }

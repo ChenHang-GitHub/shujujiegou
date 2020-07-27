@@ -10,7 +10,21 @@ package JAVA300.onJava8.enumPackage.enumInterface;
  */
 public interface Food {
     enum Appetizer implements Food {
-        SALAD, SOUP, SPRING_ROLLS;
+        SALAD(1), SOUP(2);
+
+        private  int num ;
+
+        Appetizer(int num) {
+            this.num = num;
+        }
+
+        public int getNum() {
+            return num;
+        }
+
+        public void setNum(int num) {
+            this.num = num;
+        }
     }
     enum MainCourse implements Food {
         LASAGNE, BURRITO, PAD_THAI,

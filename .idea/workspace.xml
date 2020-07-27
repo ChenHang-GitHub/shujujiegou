@@ -2,34 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d8c64ac-8ca2-40da-921f-6c1cc788a257" name="Default" comment="shuju">
+      <change afterPath="$PROJECT_DIR$/src/LabPackage/lab3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Arquillian_JUnit_Release.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Arquillian_JUnit_Release.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_0_M1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_0_M1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/shujujiegou/Josepfu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shujujiegou/Josepfu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/threadLeaning/container/MyContainer1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threadLeaning/container/MyContainer1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/threadLeaning/info.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/threadLeaning/info.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/threadLeaning/lock/ReentrantLock1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threadLeaning/lock/ReentrantLock1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/threadLeaning/lock/ReentrantLock2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threadLeaning/lock/ReentrantLock2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/threadLeaning/someContainer/T01_ConcurrentMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threadLeaning/someContainer/T01_ConcurrentMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/threadLeaning/someContainer/T02_CopyOnWriteList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threadLeaning/someContainer/T02_CopyOnWriteList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/threadLeaning/someContainer/T04_ConcurrentQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threadLeaning/someContainer/T04_ConcurrentQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/threadLeaning/someContainer/T06_ArrayBlockingQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threadLeaning/someContainer/T06_ArrayBlockingQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/threadLeaning/someContainer/T07_DelayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threadLeaning/someContainer/T07_DelayQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/threadLeaning/someContainer/T08_TransferQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threadLeaning/someContainer/T08_TransferQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/threadLeaning/someContainer/T09_SynchronousQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threadLeaning/someContainer/T09_SynchronousQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/threadLeaning/syn/Acount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threadLeaning/syn/Acount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/threadLeaning/syn/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threadLeaning/syn/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/threadLeaning/syn/Test6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threadLeaning/syn/Test6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/threadLeaning/info.md" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/threadLeaning/info.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/threadLeaning/lock/ReentrantLock1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/threadLeaning/lock/ReentrantLock1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/threadLeaning/someContainer/T01_ConcurrentMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/threadLeaning/someContainer/T01_ConcurrentMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/threadLeaning/someContainer/T02_CopyOnWriteList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/threadLeaning/someContainer/T02_CopyOnWriteList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/threadLeaning/someContainer/T04_ConcurrentQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/threadLeaning/someContainer/T04_ConcurrentQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/threadLeaning/someContainer/T06_ArrayBlockingQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/threadLeaning/someContainer/T06_ArrayBlockingQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/threadLeaning/someContainer/T07_DelayQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/threadLeaning/someContainer/T07_DelayQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/threadLeaning/someContainer/T08_TransferQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/threadLeaning/someContainer/T08_TransferQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JAVA数据结构.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JAVA数据结构.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA300/jichen/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA300/jichen/Father.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA300/lambdaExpression/TestLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA300/lambdaExpression/TestLambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA300/onJava8/AtInterface/UseCaseTracker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA300/onJava8/AtInterface/UseCaseTracker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA300/onJava8/enumPackage/ETest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA300/onJava8/enumPackage/ETest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA300/onJava8/enumPackage/enumInterface/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA300/onJava8/enumPackage/enumInterface/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA300/onJava8/enumPackage/enumInterface/TypeOfFood.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA300/onJava8/enumPackage/enumInterface/TypeOfFood.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA300/onJava8/exception/TestEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA300/onJava8/exception/TestEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA300/onJava8/genericity/GenericHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA300/onJava8/genericity/GenericHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA300/onJava8/interfaceTest/defaultTest/InterfaceWithDefault.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA300/onJava8/interfaceTest/defaultTest/InterfaceWithDefault.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/offer/TwoStackToQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/TwoStackToQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shejimoshi/factory/simpleFactory/SimpleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shejimoshi/factory/simpleFactory/SimpleFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/shejimoshi/proxy/JdkDynamicProxy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/shejimoshi/proxy/JdkDynamicProxy/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/threadLeaning/poll/T06_Future.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/threadLeaning/poll/T06_Future.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JAVA300/jichen/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JAVA300/jichen/Child.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JAVA300/jichen/Father.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JAVA300/jichen/Father.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JAVA300/jichen/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JAVA300/jichen/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JAVA300/lambdaExpression/Like.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JAVA300/lambdaExpression/Like.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JAVA300/lambdaExpression/TestLambda.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JAVA300/lambdaExpression/TestLambda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JAVA300/onJava8/AtInterface/UseCaseTracker.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JAVA300/onJava8/AtInterface/UseCaseTracker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JAVA300/onJava8/enumPackage/ETest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JAVA300/onJava8/enumPackage/ETest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JAVA300/onJava8/enumPackage/EnumClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JAVA300/onJava8/enumPackage/EnumClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JAVA300/onJava8/enumPackage/enumInterface/Food$Appetizer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JAVA300/onJava8/enumPackage/enumInterface/Food$Appetizer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JAVA300/onJava8/enumPackage/enumInterface/Food$Coffee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JAVA300/onJava8/enumPackage/enumInterface/Food$Coffee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JAVA300/onJava8/enumPackage/enumInterface/Food$Dessert.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JAVA300/onJava8/enumPackage/enumInterface/Food$Dessert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JAVA300/onJava8/enumPackage/enumInterface/Food$MainCourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JAVA300/onJava8/enumPackage/enumInterface/Food$MainCourse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JAVA300/onJava8/enumPackage/enumInterface/TypeOfFood.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JAVA300/onJava8/enumPackage/enumInterface/TypeOfFood.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JAVA300/onJava8/exception/MyException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JAVA300/onJava8/exception/MyException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JAVA300/onJava8/exception/TestEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JAVA300/onJava8/exception/TestEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/shejimoshi/factory/simpleFactory/SimpleFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/shejimoshi/factory/simpleFactory/SimpleFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/shejimoshi/proxy/JdkDynamicProxy/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/shejimoshi/proxy/JdkDynamicProxy/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/threadLeaning/poll/T05_ThreadPool.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/threadLeaning/poll/T05_ThreadPool.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/threadLeaning/someContainer/T09_SynchronousQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/threadLeaning/someContainer/T09_SynchronousQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/threadLeaning/syn/Acount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/threadLeaning/syn/Acount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/threadLeaning/syn/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/threadLeaning/syn/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/threadLeaning/syn/Test6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/threadLeaning/syn/Test6.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -59,11 +72,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="T05_ThreadPool.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/threadLeaning/poll/T05_ThreadPool.java">
+      <file leaf-file-name="Demo_Consumer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jdk_8_9_new/Java_util_function/Demo_Consumer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="400">
+              <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
+              <folding>
+                <element signature="e#319#320#0" expanded="true" />
+                <element signature="e#356#357#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lab3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LabPackage/lab3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="560">
+              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,89 +97,74 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="info.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/threadLeaning/someContainer/info.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="460">
-                <caret line="23" column="14" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="14" />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="Demo_Predicate.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jdk_8_9_new/Java_util_function/Demo_Predicate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="T07_DelayQueue.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/threadLeaning/someContainer/T07_DelayQueue.java">
+      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jdk_8_9_new/MethodReference/Demo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1040">
-              <caret line="58" column="52" selection-start-line="58" selection-start-column="52" selection-end-line="58" selection-end-column="52" />
+            <state relative-caret-position="540">
+              <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="T08_TransferQueue.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/threadLeaning/someContainer/T08_TransferQueue.java">
+      <file leaf-file-name="Demo_getStream.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jdk_8_9_new/Stream/Demo_getStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="680">
+              <caret line="35" selection-start-line="35" selection-end-line="35" selection-end-column="59" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="T09_SynchronousQueue.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/threadLeaning/someContainer/T09_SynchronousQueue.java">
+      <file leaf-file-name="Demo_List.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jdk_8_9_new/Stream/Demo_List.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
+            <state relative-caret-position="340">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="T01_MyExecutor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/threadLeaning/poll/T01_MyExecutor.java">
+      <file leaf-file-name="ArrayStreams.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jdk_8_9_new/Stream/onJava8/Arrays/ArrayStreams.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="240">
+              <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="T06_ArrayBlockingQueue.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/threadLeaning/someContainer/T06_ArrayBlockingQueue.java">
+      <file leaf-file-name="Demo_Function.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jdk_8_9_new/Java_util_function/Demo_Function.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="240">
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BlockingQueue.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/BlockingQueue.java">
+      <file leaf-file-name="lab3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Blog/lab3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="69" column="8" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
+            <state relative-caret-position="27">
+              <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="T05_LinkedBlockingQueue.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/threadLeaning/someContainer/T05_LinkedBlockingQueue.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="47" column="32" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TimeUnit.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/TimeUnit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6640">
-              <caret line="381" column="4" selection-start-line="381" selection-start-column="4" selection-end-line="381" selection-end-column="4" />
+            <state relative-caret-position="512">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -164,8 +175,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Arquillian JUnit Test Class" />
-        <option value="Interface" />
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -186,46 +197,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/jdk_8_9_new/Java_util_function/Demo_Predicate.java" />
-        <option value="$PROJECT_DIR$/src/JAVA300/onJava8/class1/clazz/Person.java" />
-        <option value="$PROJECT_DIR$/src/JAVA300/onJava8/class1/clazz/ReflectionTest.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/syn/Test1.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/syn/Test2.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/syn/Test2_1.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/syn/Test3.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/syn/T4.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/syn/Test4.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/syn/Test5.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/syn/Test7.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/syn/Test8.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/syn/Test9.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/syn/Test10.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/syn/info.md" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/lock/ReentrantLock.java" />
-        <option value="$PROJECT_DIR$/src/offer/MergeLinkList.java" />
-        <option value="$PROJECT_DIR$/src/offer/tree/HasSubtree.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/container1/MyContainer.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/container1/MyContainer2.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/someContainer/T03_SynchronizedList.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/someContainer/T05_LinkedBlockingQueue.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/someContainer/info.md" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/last/T01_MyExecutor.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/last/T05_ThreadPool.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/last/T06_Future.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/last/T07_ParallelComputing.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/poll/T07_ParallelComputing.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/poll/T08_CachedThreadPool.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/poll/T09_SingleThreadPool.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/poll/T10_ScheduledPool.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/poll/T11_WorkStealingPool.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/poll/T12_ForkJoinPool.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/poll/T13_ThreadPoolExecutor.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/poll/T14_ParallelStreamAPI.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/info.md" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/syn/Test.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/syn/Test6.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/syn/Acount.java" />
-        <option value="$PROJECT_DIR$/src/threadLeaning/container/MyContainer.java" />
         <option value="$PROJECT_DIR$/src/threadLeaning/container/MyContainer1.java" />
         <option value="$PROJECT_DIR$/src/threadLeaning/lock/ReentrantLock1.java" />
         <option value="$PROJECT_DIR$/src/threadLeaning/lock/ReentrantLock2.java" />
@@ -237,6 +208,46 @@
         <option value="$PROJECT_DIR$/src/threadLeaning/someContainer/T08_TransferQueue.java" />
         <option value="$PROJECT_DIR$/src/threadLeaning/someContainer/T09_SynchronousQueue.java" />
         <option value="$PROJECT_DIR$/src/threadLeaning/poll/T05_ThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/JAVA300/onJava8/InnerClassPackage/DotNew.java" />
+        <option value="$PROJECT_DIR$/src/JAVA300/onJava8/InnerClassPackage/Parcel3.java" />
+        <option value="$PROJECT_DIR$/src/JAVA300/onJava8/InnerClassPackage/inf/Destination.java" />
+        <option value="$PROJECT_DIR$/src/JAVA300/onJava8/InnerClassPackage/inf/Contents.java" />
+        <option value="$PROJECT_DIR$/src/JAVA300/onJava8/InnerClassPackage/Parcel4.java" />
+        <option value="$PROJECT_DIR$/src/JAVA300/onJava8/InnerClassPackage/DotThis.java" />
+        <option value="$PROJECT_DIR$/src/JAVA300/onJava8/InnerClassPackage/Parcel5.java" />
+        <option value="$PROJECT_DIR$/src/offer/StringAbc.java" />
+        <option value="$PROJECT_DIR$/src/offer/EntryNodeOfLoop.java" />
+        <option value="$PROJECT_DIR$/src/JAVA300/onJava8/InnerClassPackage/Parcel2.java" />
+        <option value="$PROJECT_DIR$/src/JAVA300/onJava8/InnerClassPackage/Sequence.java" />
+        <option value="$PROJECT_DIR$/hello.txt" />
+        <option value="$PROJECT_DIR$/src/JAVA300/ioPackage/FileTest.java" />
+        <option value="$PROJECT_DIR$/src/JAVA300/ioPackage/Reader_Writer/FileReaderTest.java" />
+        <option value="$PROJECT_DIR$/src/JAVA300/onJava8/enumPackage/ETest.java" />
+        <option value="$PROJECT_DIR$/src/JAVA300/Plate.java" />
+        <option value="$PROJECT_DIR$/src/JAVA300/onJava8/enumPackage/enumInterface/TypeOfFood.java" />
+        <option value="$PROJECT_DIR$/src/JAVA300/onJava8/enumPackage/enumInterface/Food.java" />
+        <option value="$PROJECT_DIR$/src/JAVA300/jichen/Father.java" />
+        <option value="$PROJECT_DIR$/src/JAVA300/onJava8/interfaceTest/defaultTest/InterfaceWithDefault.java" />
+        <option value="$PROJECT_DIR$/src/JAVA300/onJava8/file/ListOfLines.java" />
+        <option value="$PROJECT_DIR$/src/JAVA300/onJava8/exception/TestEx.java" />
+        <option value="$PROJECT_DIR$/src/JAVA300/onJava8/genericity/GenericHolder.java" />
+        <option value="$PROJECT_DIR$/src/JAVA300/onJava8/InnerClassPackage/ClassInInterface.java" />
+        <option value="$PROJECT_DIR$/src/JAVA300/onJava8/InnerClassPackage/Parcel1.java" />
+        <option value="$PROJECT_DIR$/src/JAVA300/onJava8/InnerClassPackage/Parcel6.java" />
+        <option value="$PROJECT_DIR$/src/JAVA300/onJava8/InnerClassPackage/Parcel11.java" />
+        <option value="$PROJECT_DIR$/src/JAVA300/onJava8/AtInterface/UseCaseTracker.java" />
+        <option value="$PROJECT_DIR$/src/threadLeaning/poll/T06_Future.java" />
+        <option value="$PROJECT_DIR$/src/shejimoshi/proxy/JdkDynamicProxy/Client.java" />
+        <option value="$PROJECT_DIR$/src/shejimoshi/factory/simpleFactory/SimpleFactory.java" />
+        <option value="$PROJECT_DIR$/src/shejimoshi/iteratorPattern/BookShelf.java" />
+        <option value="$PROJECT_DIR$/src/test.java" />
+        <option value="$PROJECT_DIR$/src/offer/TwoStackToQueue.java" />
+        <option value="$PROJECT_DIR$/src/JVM/HeapOOM.java" />
+        <option value="$PROJECT_DIR$/src/Blog/la.java" />
+        <option value="$PROJECT_DIR$/src/JAVA300/lambdaExpression/TestLambda.java" />
+        <option value="$PROJECT_DIR$/src/LabPackage/lab3.java" />
+        <option value="$PROJECT_DIR$/src/Blog/lab3.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -247,6 +258,13 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\chenshihang\.m2" />
+        <option name="mavenHome" value="G:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="C:\Users\chenshihang\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
@@ -255,7 +273,17 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="java数据结构" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="java数据结构" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
@@ -263,10 +291,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-59" />
-    <option name="y" value="63" />
-    <option name="width" value="1936" />
-    <option name="height" value="1100" />
+    <option name="y" value="1" />
+    <option name="width" value="1932" />
+    <option name="height" value="1045" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -275,8 +302,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -293,53 +321,97 @@
               <item name="JAVA数据结构" type="b2602c69:ProjectViewProjectNode" />
               <item name="JAVA数据结构" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="threadLeaning" type="462c0819:PsiDirectoryNode" />
+              <item name="Blog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JAVA数据结构" type="b2602c69:ProjectViewProjectNode" />
               <item name="JAVA数据结构" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="threadLeaning" type="462c0819:PsiDirectoryNode" />
-              <item name="lock" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVA300" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JAVA数据结构" type="b2602c69:ProjectViewProjectNode" />
               <item name="JAVA数据结构" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="threadLeaning" type="462c0819:PsiDirectoryNode" />
-              <item name="poll" type="462c0819:PsiDirectoryNode" />
+              <item name="JAVA300" type="462c0819:PsiDirectoryNode" />
+              <item name="lambdaExpression" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JAVA数据结构" type="b2602c69:ProjectViewProjectNode" />
               <item name="JAVA数据结构" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="threadLeaning" type="462c0819:PsiDirectoryNode" />
-              <item name="someContainer" type="462c0819:PsiDirectoryNode" />
+              <item name="jdk_8_9_new" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JAVA数据结构" type="b2602c69:ProjectViewProjectNode" />
               <item name="JAVA数据结构" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="threadLeaning" type="462c0819:PsiDirectoryNode" />
-              <item name="syn" type="462c0819:PsiDirectoryNode" />
+              <item name="jdk_8_9_new" type="462c0819:PsiDirectoryNode" />
+              <item name="Java_util_function" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVA数据结构" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA数据结构" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jdk_8_9_new" type="462c0819:PsiDirectoryNode" />
+              <item name="Lambda" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVA数据结构" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA数据结构" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jdk_8_9_new" type="462c0819:PsiDirectoryNode" />
+              <item name="MethodReference" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVA数据结构" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA数据结构" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jdk_8_9_new" type="462c0819:PsiDirectoryNode" />
+              <item name="Stream" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVA数据结构" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA数据结构" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jdk_8_9_new" type="462c0819:PsiDirectoryNode" />
+              <item name="Stream" type="462c0819:PsiDirectoryNode" />
+              <item name="onJava8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVA数据结构" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA数据结构" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jdk_8_9_new" type="462c0819:PsiDirectoryNode" />
+              <item name="Stream" type="462c0819:PsiDirectoryNode" />
+              <item name="onJava8" type="462c0819:PsiDirectoryNode" />
+              <item name="Arrays" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVA数据结构" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVA数据结构" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="LabPackage" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;Executor&#9;FILE&#9;file://C:/Users/chenshihang/IdeaProjects/JAVA数据结构/src/threadLeaning/poll/T13_ThreadPoolExecutor.java&#10;ThreP&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/ThreadPoolExecutor.java&#10;keep&#9;PSI&#9;JAVA://com.sun.corba.se.impl.javax.rmi.CORBA.KeepAlive&#10;ThreadPooE&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor&#10;executors&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/Executors.java&#10;executor&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/ExecutorService.java&#10;Ex&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/ExecutorService.java&#10;Exe&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/Executor.java&#10;Future&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/Future.java&#10;ExServ&#9;PSI&#9;JAVA://java.util.concurrent.ExecutorService&#10;Fut&#9;PSI&#9;JAVA://java.util.concurrent.Future&#10;Vector&#9;PSI&#9;JAVA://java.util.Vector&#10;Lock&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/locks/Lock.java&#10;OBjec&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/rt.jar!/java/lang/Object.class&#10;thread&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Thread.java&#10;Proper&#9;PSI&#9;JAVA://com.sun.xml.internal.fastinfoset.sax.Properties&#10;BootS&#9;PSI&#9;JAVA://jdk.nashorn.internal.runtime.linker.Bootstrap&#10;ClassLoa&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/ClassLoader.java&#10;Class&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Class.java&#10;Object&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/rt.jar!/java/lang/Object.class&#10;isBlank&#9;PSI&#9;JAVA://netscape.security.Privilege#isBlank&#10;StringU&#9;PSI&#9;JAVA://com.sun.xml.internal.ws.util.StringUtils" />
+    <property name="SearchEverywhereHistoryKey" value="FileRead&#9;PSI&#9;JAVA://java.io.FileReader&#10;Reader&#9;PSI&#9;JAVA://java.io.Reader&#10;FileInp&#9;PSI&#9;JAVA://java.io.FileInputStream&#10;InputStre&#9;PSI&#9;JAVA://java.io.InputStream&#10;Object&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/rt.jar!/java/lang/Object.class&#10;HashMap&#9;PSI&#9;JAVA://java.util.HashMap&#10;Executor&#9;FILE&#9;file://C:/Users/chenshihang/IdeaProjects/JAVA数据结构/src/threadLeaning/poll/T13_ThreadPoolExecutor.java&#10;ThreP&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/ThreadPoolExecutor.java&#10;keep&#9;PSI&#9;JAVA://com.sun.corba.se.impl.javax.rmi.CORBA.KeepAlive&#10;ThreadPooE&#9;PSI&#9;JAVA://java.util.concurrent.ThreadPoolExecutor&#10;executors&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/Executors.java&#10;executor&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/ExecutorService.java&#10;Ex&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/ExecutorService.java&#10;Exe&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/Executor.java&#10;Future&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/Future.java&#10;ExServ&#9;PSI&#9;JAVA://java.util.concurrent.ExecutorService&#10;Fut&#9;PSI&#9;JAVA://java.util.concurrent.Future&#10;Vector&#9;PSI&#9;JAVA://java.util.Vector&#10;Lock&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/locks/Lock.java&#10;OBjec&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/rt.jar!/java/lang/Object.class&#10;thread&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Thread.java&#10;Proper&#9;PSI&#9;JAVA://com.sun.xml.internal.fastinfoset.sax.Properties&#10;BootS&#9;PSI&#9;JAVA://jdk.nashorn.internal.runtime.linker.Bootstrap&#10;ClassLoa&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/ClassLoader.java&#10;Class&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Class.java&#10;isBlank&#9;PSI&#9;JAVA://netscape.security.Privilege#isBlank&#10;StringU&#9;PSI&#9;JAVA://com.sun.xml.internal.ws.util.StringUtils" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../community" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mybatis-datademo" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -351,19 +423,19 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\chenshihang\IdeaProjects\JAVA数据结构\src\threadLeaning" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\chenshihang\IdeaProjects\JAVA数据结构" />
-      <recent name="C:\Users\chenshihang\IdeaProjects\JAVA数据结构\src\shejimoshi\adapterpattern\byCombination" />
-      <recent name="C:\Users\chenshihang\IdeaProjects\JAVA数据结构\src\shejimoshi\prototype\shenfuzhi_serial" />
-      <recent name="C:\Users\chenshihang\IdeaProjects\JAVA数据结构\src\shejimoshi\prototype\qianfuzhi" />
-      <recent name="C:\Users\chenshihang\IdeaProjects\JAVA数据结构\src\shejimoshi\proxy\staticProxy" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="threadLeaning.lock" />
       <recent name="threadLeaning.syn" />
       <recent name="shejimoshi.BuilderPattern.way2" />
       <recent name="jdk_8_9_new.Lambda" />
       <recent name="shujujiegou.sort" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\chenshihang\IdeaProjects\JAVA数据结构" />
+      <recent name="C:\Users\chenshihang\IdeaProjects\JAVA数据结构\src\shejimoshi\adapterpattern\byCombination" />
+      <recent name="C:\Users\chenshihang\IdeaProjects\JAVA数据结构\src\shejimoshi\prototype\shenfuzhi_serial" />
+      <recent name="C:\Users\chenshihang\IdeaProjects\JAVA数据结构\src\shejimoshi\prototype\qianfuzhi" />
+      <recent name="C:\Users\chenshihang\IdeaProjects\JAVA数据结构\src\shejimoshi\proxy\staticProxy" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="shejimoshi.BuilderPattern.way1" />
@@ -384,7 +456,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.T09_SynchronousQueue">
+  <component name="RunManager" selected="Application.lab3">
     <configuration name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="shejimoshi.Strategy.Client" />
       <module name="JAVA数据结构" />
@@ -395,70 +467,58 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="T02_CopyOnWriteList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threadLeaning.someContainer.T02_CopyOnWriteList" />
+    <configuration name="HeapOOM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JVM.HeapOOM" />
       <module name="JAVA数据结构" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threadLeaning.someContainer.*" />
+          <option name="PATTERN" value="JVM.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="T04_ConcurrentQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threadLeaning.someContainer.T04_ConcurrentQueue" />
+    <configuration name="TestLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JAVA300.lambdaExpression.TestLambda" />
       <module name="JAVA数据结构" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threadLeaning.someContainer.*" />
+          <option name="PATTERN" value="JAVA300.lambdaExpression.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="T06_ArrayBlockingQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threadLeaning.someContainer.T06_ArrayBlockingQueue" />
+    <configuration name="TwoStackToQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer.TwoStackToQueue" />
       <module name="JAVA数据结构" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="threadLeaning.someContainer.*" />
+          <option name="PATTERN" value="offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="T07_DelayQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threadLeaning.someContainer.T07_DelayQueue" />
+    <configuration name="lab3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lab3" />
       <module name="JAVA数据结构" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="threadLeaning.someContainer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
-    <configuration name="T09_SynchronousQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="threadLeaning.someContainer.T09_SynchronousQueue" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
       <module name="JAVA数据结构" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="threadLeaning.someContainer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.T02_CopyOnWriteList" />
-      <item itemvalue="Application.T04_ConcurrentQueue" />
-      <item itemvalue="Application.T06_ArrayBlockingQueue" />
-      <item itemvalue="Application.T07_DelayQueue" />
-      <item itemvalue="Application.T09_SynchronousQueue" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.TwoStackToQueue" />
+      <item itemvalue="Application.HeapOOM" />
+      <item itemvalue="Application.TestLambda" />
+      <item itemvalue="Application.lab3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.T09_SynchronousQueue" />
-        <item itemvalue="Application.T07_DelayQueue" />
-        <item itemvalue="Application.T06_ArrayBlockingQueue" />
-        <item itemvalue="Application.T04_ConcurrentQueue" />
-        <item itemvalue="Application.T02_CopyOnWriteList" />
+        <item itemvalue="Application.lab3" />
+        <item itemvalue="Application.TestLambda" />
+        <item itemvalue="Application.HeapOOM" />
+        <item itemvalue="Application.TwoStackToQueue" />
+        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -560,7 +620,25 @@
       <workItem from="1573451663398" duration="961000" />
       <workItem from="1573452661089" duration="14167000" />
       <workItem from="1573538126488" duration="18162000" />
-      <workItem from="1573624542367" duration="369000" />
+      <workItem from="1573624542367" duration="9131000" />
+      <workItem from="1573730551955" duration="3978000" />
+      <workItem from="1573785553296" duration="6906000" />
+      <workItem from="1573880307442" duration="13478000" />
+      <workItem from="1574149746280" duration="2290000" />
+      <workItem from="1574227644936" duration="2506000" />
+      <workItem from="1574240680739" duration="4504000" />
+      <workItem from="1574404202346" duration="12486000" />
+      <workItem from="1576147958736" duration="6058000" />
+      <workItem from="1576221238783" duration="567000" />
+      <workItem from="1576222314177" duration="222000" />
+      <workItem from="1576489127087" duration="156000" />
+      <workItem from="1577266374820" duration="31000" />
+      <workItem from="1581403568400" duration="584000" />
+      <workItem from="1582785472092" duration="3807000" />
+      <workItem from="1583054449391" duration="835000" />
+      <workItem from="1583055533333" duration="41000" />
+      <workItem from="1585642760803" duration="107000" />
+      <workItem from="1588060725025" duration="1010000" />
     </task>
     <task id="LOCAL-00001" summary="shuju">
       <created>1564938375598</created>
@@ -594,31 +672,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="JunitTest_test - 2019.10.12 at 20h 51m 53s.xml">
-      <configuration name="JunitTest.test" configurationId="JUnit" />
+    <history-entry file="FileReaderTest_fileReaderTest2 - 2019.11.16 at 18h 28m 35s.xml">
+      <configuration name="FileReaderTest.fileReaderTest2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JunitTest_test - 2019.10.12 at 20h 52m 23s.xml">
-      <configuration name="JunitTest.test" configurationId="JUnit" />
+    <history-entry file="FileReaderTest_fileReaderTest2 - 2019.11.16 at 18h 28m 44s.xml">
+      <configuration name="FileReaderTest.fileReaderTest2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JunitTest_test - 2019.10.12 at 20h 53m 44s.xml">
-      <configuration name="JunitTest.test" configurationId="JUnit" />
+    <history-entry file="FileReaderTest_fileReaderTest - 2019.11.16 at 18h 28m 54s.xml">
+      <configuration name="FileReaderTest.fileReaderTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JunitTest_test - 2019.10.12 at 20h 54m 05s.xml">
-      <configuration name="JunitTest.test" configurationId="JUnit" />
+    <history-entry file="FileReaderTest_fileReaderTest2 - 2019.11.16 at 18h 28m 57s.xml">
+      <configuration name="FileReaderTest.fileReaderTest2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JunitTest_test - 2019.10.12 at 20h 54m 49s.xml">
-      <configuration name="JunitTest.test" configurationId="JUnit" />
+    <history-entry file="FileReaderTest_fileReaderTest2 - 2019.11.16 at 18h 54m 23s.xml">
+      <configuration name="FileReaderTest.fileReaderTest2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JunitTest_test - 2019.11.04 at 15h 58m 36s.xml">
-      <configuration name="JunitTest.test" configurationId="JUnit" />
+    <history-entry file="FileReaderTest_fileReaderTest2 - 2019.11.16 at 18h 54m 51s.xml">
+      <configuration name="FileReaderTest.fileReaderTest2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileReaderTest_fileReaderTest2 - 2019.11.16 at 18h 55m 19s.xml">
+      <configuration name="FileReaderTest.fileReaderTest2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileReaderTest_fileReaderTest2 - 2019.11.16 at 19h 01m 25s.xml">
+      <configuration name="FileReaderTest.fileReaderTest2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileReaderTest_fileWriterTest - 2019.11.16 at 19h 12m 44s.xml">
+      <configuration name="FileReaderTest.fileWriterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FileReaderTest_fileWriterTest - 2019.11.16 at 19h 13m 04s.xml">
+      <configuration name="FileReaderTest.fileWriterTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="570489000" />
+    <option name="totallyTimeSpent" value="638817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="2" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -626,18 +715,19 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5229211" side_tool="true" weight="0.3923648" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32995737" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5229211" side_tool="true" weight="0.39154616" />
+      <window_info active="true" anchor="right" id="Maven Projects" order="5" visible="true" weight="0.32995737" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47707888" weight="0.2102336" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.48987207" weight="0.16017798" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47707888" weight="0.57508343" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.48987207" weight="0.16" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Designer" order="4" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.40266964" visible="true" weight="0.20415778" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.39859155" visible="true" weight="0.22441365" />
       <window_info id="Web" order="7" sideWeight="0.5917686" side_tool="true" weight="0.19349681" />
       <window_info anchor="right" id="Database" order="7" weight="0.32995737" />
-      <window_info id="Structure" order="1" sideWeight="0.5973304" side_tool="true" weight="0.20202559" />
+      <window_info anchor="right" id="SciView" />
+      <window_info id="Structure" order="1" sideWeight="0.6014084" side_tool="true" weight="0.21908316" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
       <window_info id="UI Designer" order="5" />
       <window_info anchor="right" id="Theme Preview" order="6" />
@@ -656,9 +746,10 @@
     <layout-to-restore>
       <window_info id="Designer" order="4" />
       <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47707888" weight="0.24805339" />
       <window_info anchor="bottom" id="Spring" order="11" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.47707888" weight="0.24805339" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32873806" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
       <window_info id="UI Designer" order="5" />
@@ -683,9 +774,8 @@
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info active="true" id="Structure" order="1" sideWeight="0.5906563" side_tool="true" visible="true" weight="0.19349681" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32873806" />
-      <window_info anchor="right" id="Bean Validation" order="9" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49733475" weight="0.39933258" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -734,7 +824,7 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="67" />
+      <option name="time" value="91" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -742,411 +832,442 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/poll/T08_CachedThreadPool.java">
+    <entry file="file://$PROJECT_DIR$/src/shejimoshi/Strategy/IQuoteStrategy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="45" column="32" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
+        <state relative-caret-position="140">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/poll/T09_SingleThreadPool.java">
+    <entry file="file://$PROJECT_DIR$/src/shejimoshi/Strategy/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/poll/T10_ScheduledPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="29" column="33" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Runtime.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="56" column="26" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/poll/T12_ForkJoinPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1760">
-          <caret line="92" selection-start-line="92" selection-end-line="92" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/poll/T11_WorkStealingPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/com/sun/corba/se/impl/javax/rmi/CORBA/Util.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12500">
-          <caret line="747" column="26" selection-start-line="747" selection-start-column="26" selection-end-line="747" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7040">
-          <caret line="392" column="23" selection-start-line="392" selection-start-column="23" selection-end-line="392" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4480">
-          <caret line="255" column="7" selection-start-line="255" selection-start-column="7" selection-end-line="255" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/poll/T13_ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/poll/T14_ParallelStreamAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/syn/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/syn/Test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/syn/Test2_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/syn/Test3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/syn/Test1.java">
+    <entry file="file://$PROJECT_DIR$/src/JVM/HeapOOM.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="27" />
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/syn/Test4.java">
+    <entry file="file://$PROJECT_DIR$/src/shujujiegou/MyQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="120">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/syn/Test6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/syn/Test7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="27" column="21" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/syn/Test8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/rt.jar!/sun/misc/Unsafe.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1540">
-          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-813">
-          <caret line="67" column="20" selection-start-line="67" selection-start-column="12" selection-end-line="67" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/syn/Test9.java">
+    <entry file="file://$PROJECT_DIR$/src/shujujiegou/MyStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
-          <caret line="25" column="21" selection-start-line="25" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/syn/Test10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="11" selection-start-line="8" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/container/MyContainer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/threadLeaning/container1/MyContainer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/container/MyContainer1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="980">
-          <caret line="56" column="33" selection-start-line="56" selection-start-column="33" selection-end-line="56" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/syn/Test5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/info.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="80">
-            <caret line="4" column="9" selection-start-line="4" selection-end-line="4" selection-end-column="9" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/syn/Acount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
-          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/lock/ReentrantLock1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/lock/ReentrantLock2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2331">
-          <caret line="618" column="21" selection-start-line="618" selection-start-column="17" selection-end-line="618" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/someContainer/T01_ConcurrentMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="46" column="26" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/CopyOnWriteArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="890">
-          <caret line="118" column="11" selection-start-line="118" selection-start-column="11" selection-end-line="118" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="76" column="6" selection-start-line="76" selection-start-column="6" selection-end-line="76" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/someContainer/T02_CopyOnWriteList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/someContainer/T03_SynchronizedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="180" column="20" lean-forward="true" selection-start-line="180" selection-start-column="20" selection-end-line="180" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/someContainer/T04_ConcurrentQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="22" column="32" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/someContainer/info.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="460">
-            <caret line="23" column="14" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/LinkedBlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9160">
-          <caret line="248" column="11" selection-start-line="248" selection-start-column="11" selection-end-line="248" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/TimeUnit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6640">
-          <caret line="381" column="4" selection-start-line="381" selection-start-column="4" selection-end-line="381" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/someContainer/T05_LinkedBlockingQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="47" column="32" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/concurrent/BlockingQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="700">
-          <caret line="69" column="8" selection-start-line="69" selection-start-column="8" selection-end-line="69" selection-end-column="8" />
+          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/someContainer/T06_ArrayBlockingQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/shujujiegou/DoubleCircleNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="140">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/someContainer/T07_DelayQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/shujujiegou/Git.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1040">
-          <caret line="58" column="52" selection-start-line="58" selection-start-column="52" selection-end-line="58" selection-end-column="52" />
+        <state relative-caret-position="100">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/someContainer/T08_TransferQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/offer/TwoStackToQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="580">
+          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/someContainer/T09_SynchronousQueue.java">
+    <entry file="file://$PROJECT_DIR$/src/shejimoshi/Strategy/IQuoteStrategy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="140">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/poll/T01_MyExecutor.java">
+    <entry file="file://$PROJECT_DIR$/src/shejimoshi/Strategy/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/threadLeaning/poll/T05_ThreadPool.java">
+    <entry file="file://$PROJECT_DIR$/src/JVM/HeapOOM.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shujujiegou/MyQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shujujiegou/MyStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/threadLeaning/container1/MyContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shujujiegou/DoubleCircleNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shujujiegou/Git.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer/TwoStackToQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shejimoshi/Strategy/IQuoteStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shejimoshi/Strategy/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JVM/HeapOOM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shujujiegou/MyQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shujujiegou/MyStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/threadLeaning/container1/MyContainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shujujiegou/DoubleCircleNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shujujiegou/Git.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer/TwoStackToQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="580">
+          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shejimoshi/Strategy/IQuoteStrategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/shejimoshi/Strategy/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JVM/HeapOOM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Runnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdk_8_9_new/Lambda/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/src.zip!/java/util/function/Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Blog/la.java" />
+    <entry file="file://$PROJECT_DIR$/src/JAVA300/lambdaExpression/TestLambda.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="521">
+          <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdk_8_9_new/Lambda/MyFuntionalInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdk_8_9_new/MethodReference/Printable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdk_8_9_new/MethodReference/MethodRefObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LabPackage/lab3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdk_8_9_new/Java_util_function/Demo_Predicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdk_8_9_new/Java_util_function/Demo_Function.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdk_8_9_new/Java_util_function/Demo_Consumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="22" column="60" selection-start-line="22" selection-start-column="60" selection-end-line="22" selection-end-column="60" />
+          <folding>
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdk_8_9_new/MethodReference/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdk_8_9_new/Stream/Demo_getStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="35" selection-start-line="35" selection-end-line="35" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdk_8_9_new/Stream/Demo_List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdk_8_9_new/Stream/onJava8/Arrays/ArrayStreams.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Blog/lab3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.6 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JAVA数据结构</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Arquillian JUnit:Release</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

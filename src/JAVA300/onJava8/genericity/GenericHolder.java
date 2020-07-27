@@ -4,7 +4,7 @@ package JAVA300.onJava8.genericity;
  * @ClassName: GenericHolder
  * @author: csh
  * @date: 2019/11/5  15:52
- * @Description: 获取想要的对象的泛型方式
+ * @Description:    获取想要的对象的泛型方式
  */
 
 

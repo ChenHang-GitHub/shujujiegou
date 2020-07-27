@@ -9,7 +9,7 @@ package JAVA300.onJava8.interfaceTest.defaultTest;
 public interface InterfaceWithDefault {
 
     public static final int i = 0;
-    public abstract void firstMethod();
+    public abstract  void firstMethod();
 
     public abstract void secondMethod();
 

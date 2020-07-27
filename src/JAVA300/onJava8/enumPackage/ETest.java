@@ -27,6 +27,9 @@ public enum ETest {
         return this.msg;
     }
 
+    public static void main(String[] args) {
+
+    }
 }
 class EnumClass {
 

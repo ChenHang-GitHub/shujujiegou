@@ -17,7 +17,7 @@ public class T06_Future {
         });
         new Thread(task).start();
 
-        System.out.println(task.get());   //// 阻塞 等待任务执行完成, 获取到返回值
+        System.out.println(task.get());   // 阻塞 等待任务执行完成, 获取到返回值
 
         System.out.println("---------------------------------------");
         ExecutorService service =  Executors.newFixedThreadPool(5);

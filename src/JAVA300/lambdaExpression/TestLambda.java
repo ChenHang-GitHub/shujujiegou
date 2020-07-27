@@ -40,10 +40,10 @@ public class TestLambda {
 
         //lambda
         ilike = ()->{
-            System.out.println("lamda");
+            System.out.println("lamda1");
         };
-        ilike.lambda();
 
+        ilike.lambda();
 
 
     }
@@ -52,7 +52,6 @@ public class TestLambda {
 
 
 class Like   implements  Ilike{
-
     @Override
     public void lambda() {
         System.out.println("1111111");

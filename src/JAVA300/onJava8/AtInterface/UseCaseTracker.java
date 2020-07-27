@@ -13,8 +13,7 @@ import java.util.stream.IntStream;
  */
 public class UseCaseTracker {
 
-    public static void
-    trackUseCases(List<Integer> useCases, Class<?> cl) {
+    public static void trackUseCases(List<Integer> useCases, Class<?> cl) {
         for (Method m : cl.getDeclaredMethods()) {
             UseCase uc = m.getAnnotation(UseCase.class);
             if (uc != null) {
